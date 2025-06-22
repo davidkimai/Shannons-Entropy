@@ -1,7 +1,12 @@
-# Shannons Scaling Laws
+# [Shannons Scaling Laws](https://arc.net/folder/9379CCAA-0CEB-4EEE-B73D-6A43EB92B889)
 A creative exploration into Shannon’s Entropy and how entropy, meaning, and language shifts across contexts—and how this translates to scaling laws. For example: Could models trained in Mandarin have a scaling laws advantage in information density per token?
 
-## Papers Guiding This Exploration: 
+# Join Me In This Fascinating Exploration!
+## Papers Guiding This Contribution: 
+
+![image](https://github.com/user-attachments/assets/18004c1c-e2b6-48da-a446-127ca1d53973)
+
+
 ### [Vaswani et al. (2017). "Attention Is All You Need."](https://arxiv.org/abs/1706.03762)
 
 ### [Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal, 27(3), 379–423.](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
@@ -19,7 +24,5 @@ A creative exploration into Shannon’s Entropy and how entropy, meaning, and la
 ### [Frost, R. (2012). "Towards a Universal Model of Reading."](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/towards-a-universal-model-of-reading/215B8EC1ABA1987401C440455F24C765)
 ### [Peirce, C. S. (1931-58). "Collected Papers."](https://colorysemiotica.wordpress.com/wp-content/uploads/2014/08/peirce-collectedpapers.pdf)
 ### [Tishby, N., et al. (2015). "Deep Learning and the Information Bottleneck Principle."](https://arxiv.org/abs/1503.02406)
-
-
 
 
