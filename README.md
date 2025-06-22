@@ -3,7 +3,7 @@ A creative exploration into Shannon’s Entropy and how entropy, meaning, and la
 
 # Join Me In This Fascinating Exploration!
 
-## [Papers Guiding This Contribution](https://arc.net/folder/9379CCAA-0CEB-4EEE-B73D-6A43EB92B889)
+## [Papers Guiding This Contribution](https://arc.net/folder/E9A1BCB2-4F59-40C6-9730-18127D63D9E4)
 
 ![image](https://github.com/user-attachments/assets/957c91f0-839b-46b9-88a2-cffc41841c08)
 
