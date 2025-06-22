@@ -11,6 +11,8 @@ A creative exploration into Shannon’s Entropy and how entropy, meaning, and la
 
 ![image](https://github.com/user-attachments/assets/c3a81017-ccfd-4e6f-82cf-604a0eb27a20)
 
+*"I love you" in English compared to the same translation "我爱你" in Mandarin*
+
 </div>
 
 # Join Me In This Fascinating Exploration!
