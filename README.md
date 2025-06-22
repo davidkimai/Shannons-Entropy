@@ -1,6 +1,8 @@
 # Shannons Scaling Laws
 A creative exploration into Shannon’s Entropy and how entropy, meaning, and language shifts across contexts—and how this translates to scaling laws. For example: Could models trained in Mandarin have a scaling laws advantage in information density per token?
 
+> This repo will be updated as new discoveries are made
+
 # Join Me In This Fascinating Exploration!
 
 ## [Papers Guiding This Contribution](https://arc.net/folder/E9A1BCB2-4F59-40C6-9730-18127D63D9E4)
