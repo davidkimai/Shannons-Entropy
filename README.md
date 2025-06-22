@@ -5,7 +5,7 @@ A creative exploration into Shannon’s Entropy and how entropy, meaning, and la
 
 ![image](https://github.com/user-attachments/assets/c1b48bfc-73d4-477a-9b3e-4236876ad86e)
 
-![image](https://github.com/user-attachments/assets/09ee611e-1354-4597-bdbd-604933576713)
+![image](https://github.com/user-attachments/assets/c3a81017-ccfd-4e6f-82cf-604a0eb27a20)
 
 # Join Me In This Fascinating Exploration!
 
