@@ -24,7 +24,7 @@ A creative exploration into Shannon’s Entropy and how entropy, meaning, and in
 
 ### [Vaswani et al. (2017). "Attention Is All You Need."](https://arxiv.org/abs/1706.03762)
 
-### [Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal, 27(3), 379–423.](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+### [Shannon, C. E. (1948). "A Mathematical Theory of Communication."](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
 ### [Shannon, C. E. (1951). "Prediction and Entropy of Printed English."](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
 ### [Kaplan, J., et al. (2020). "Scaling Laws for Neural Language Models."](https://arxiv.org/abs/2001.08361)
