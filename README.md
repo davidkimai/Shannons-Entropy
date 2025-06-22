@@ -3,6 +3,10 @@ A creative exploration into Shannon’s Entropy and how entropy, meaning, and la
 
 > This repo will be updated in real time as new discoveries are made and formalized!
 
+![image](https://github.com/user-attachments/assets/c1b48bfc-73d4-477a-9b3e-4236876ad86e)
+
+![image](https://github.com/user-attachments/assets/09ee611e-1354-4597-bdbd-604933576713)
+
 # Join Me In This Fascinating Exploration!
 
 # [Papers Guiding This Contribution](https://arc.net/folder/E9A1BCB2-4F59-40C6-9730-18127D63D9E4)
