@@ -3,9 +3,15 @@ A creative exploration into Shannon’s Entropy and how entropy, meaning, and la
 
 > This repo will be updated in real time as new discoveries are made and formalized!
 
+## [Courtesy of OpenAI Tokenizer](https://platform.openai.com/tokenizer)
+
+<div align="center">
+  
 ![image](https://github.com/user-attachments/assets/c1b48bfc-73d4-477a-9b3e-4236876ad86e)
 
 ![image](https://github.com/user-attachments/assets/c3a81017-ccfd-4e6f-82cf-604a0eb27a20)
+
+</div>
 
 # Join Me In This Fascinating Exploration!
 
