@@ -1,8 +1,9 @@
-# [Shannons Scaling Laws](https://arc.net/folder/9379CCAA-0CEB-4EEE-B73D-6A43EB92B889)
+# Shannons Scaling Laws
 A creative exploration into Shannon’s Entropy and how entropy, meaning, and language shifts across contexts—and how this translates to scaling laws. For example: Could models trained in Mandarin have a scaling laws advantage in information density per token?
 
 # Join Me In This Fascinating Exploration!
-## Papers Guiding This Contribution: 
+
+## [Papers Guiding This Contribution](https://arc.net/folder/9379CCAA-0CEB-4EEE-B73D-6A43EB92B889)
 
 ![image](https://github.com/user-attachments/assets/18004c1c-e2b6-48da-a446-127ca1d53973)
 
